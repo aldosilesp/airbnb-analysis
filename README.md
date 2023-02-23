@@ -2,7 +2,7 @@
 
 *How do Airbnbs get booked?*
 
-This repository is a Python library with Jupyter Notebooks of a group analysis that identified the elements that help Airbnb hosts perform best in a highly competitive market, such as Mexico City. Here you will find:
+This repository is a Python library with Jupyter Notebooks of our team's analysis that identified the elements that help Airbnb hosts perform best in a highly competitive market, such as Mexico City. Here you will find:
 
 ## The link to our slide deck
 
