@@ -8,11 +8,11 @@ This repository is a Python library with Jupyter Notebooks of a group analysis t
 
 [Google Slides deck](https://docs.google.com/presentation/d/1ackgipuGAcztUlJ_ftdtSCkch9yrqRrdwPKUquYkFho/)
 
-## The *Output_data* folder
+## The '*Output_data*' folder
 
 Contains all the figures —bar charts, boxplots, and scatterplots— and maps generated as part of the analysis.
 
-## The *Resources* folder
+## The '*Resources*' folder
 
 Contains two CSV files and two shapefiles: 
 - ```listings-complete.csv``` has a sample of the data with which we worked. The original file was over 100 MB, therefore, please be aware that the data you will find in the Jupyter Notebooks, the data of our slide deck, and the data you might find in your calculations will be slightly different.
@@ -20,10 +20,10 @@ Contains two CSV files and two shapefiles:
 - ```poligonos_alcaldias_cdmx.dbf``` has the polygons of the districts of Mexico City.
 - ```poligonos_alcaldias_cdmx.shp``` also has the polygons of the districts of Mexico City.
 
-## The *project_1_data_analysis.ipynb* Jupyter Notebook
+## The '*project_1_data_analysis.ipynb*' Jupyter Notebook
 It is the code we used to clean the data before our analysis.
 
-## The *project_1_exploration_and_cleanup.ipynb* Jupyter Notebook
+## The '*project_1_exploration_and_cleanup.ipynb*' Jupyter Notebook
 It is the code we used to perform our analysis.
 
 ## Our written analysis
@@ -81,14 +81,14 @@ The dataset used in our analysis was downloaded from insideairbnb.com. The websi
 
 ## Credits
 
-Alejandra Espinosa
-Aldo Silva
-Daniel Murillo
-
+Alejandra Espinosa<br>
+Aldo Silva<br>
+Daniel Murillo<br>
+<br>
 
 ```#Thank you for reading me!```
-
-
+<br>
+<br>
 
 ## Contributing
 
