@@ -1,8 +1,14 @@
-# Project 1: <font color='crimson'>Airbnb Trends in Mexico City</font>
+# Airbnb Trends in Mexico City 2022
 
 *How do Airbnbs get booked?*
 
 This repository is a Python library with Jupyter Notebooks of our team's analysis that identified the elements that help Airbnb hosts perform best in a highly competitive market, such as Mexico City. Here you will find:
+
+## Authors
+
+[Alejandra Espinosa](https://github.com/zuntaalejandra)
+[Daniel R. Murillo Antuna](https://github.com/dan-murillo)
+[Aldo Silva](https://github.com/aldosilesp)
 
 ## The link to our slide deck
 
@@ -77,14 +83,6 @@ In conclusion, the rating scores for accuracy, communication, and cleanliness ar
 ## Sources
 
 The dataset used in our analysis was downloaded from insideairbnb.com. The website contains free, open data about Airbnb and its listings. The analysis was based on data from Mexico City published on December 2022.
-
-
-## Credits
-
-Alejandra Espinosa<br>
-Aldo Silva<br>
-Daniel Murillo<br>
-<br>
 
 ```#Thank you for reading me!```
 <br>
