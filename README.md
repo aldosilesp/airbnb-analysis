@@ -6,9 +6,9 @@ This repository is a Python library with Jupyter Notebooks of our team's analysi
 
 ## Authors
 
-[Alejandra Espinosa](https://github.com/zuntaalejandra)
-[Daniel R. Murillo Antuna](https://github.com/dan-murillo)
-[Aldo Silva](https://github.com/aldosilesp)
+- Alejandra Espinosa [@zuntaalejandra](https://github.com/zuntaalejandra)
+- Daniel R. Murillo Antuna [@dan-murillo](https://github.com/dan-murillo)
+- Aldo Silva [@aldosilesp](https://github.com/aldosilesp)
 
 ## The link to our slide deck
 
